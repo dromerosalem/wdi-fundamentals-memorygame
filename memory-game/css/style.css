@@ -122,3 +122,26 @@ footer {
   color: #F15B31;
   font-weight: bold;
 }
+
+#startAgain{
+background-color: gray;
+padding: 20px;
+margin: 20px;
+border-radius: 25px;
+
+}
+
+.counter{
+  border: 5px solid black;
+  width: 100px;
+  border-radius: 25px;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+#score{
+  font-size: 50px;
+}
+
+
+
